@@ -10,17 +10,10 @@ A simple Python-based port scanner to detect open ports on a target system.
 - Fast scanning using socket
 
 ## 🚀 Usage
-```bash
+
+git clone https://github.com/kickerboy/port-scanner.git
+cd port-scanner
 python3 scanner.py
-
-
-example
-
-
-
-
-
-
 Enter target domain: amazon.com
 Port 22 is OPEN
 Port 80 is OPEN
