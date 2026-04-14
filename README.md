@@ -8,7 +8,7 @@ A simple Python-based port scanner to detect open ports on a target system.
 - Detect open ports
 - Custom port range support
 - Fast scanning using socket
-
+```bash
 ## 🚀 Usage
 
 git clone https://github.com/kickerboy/port-scanner.git
