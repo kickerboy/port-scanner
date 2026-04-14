@@ -21,6 +21,6 @@ example
 
 
 
-Enter target IP: 192.xxx.1.1
+Enter target domain: amazon.com
 Port 22 is OPEN
 Port 80 is OPEN
